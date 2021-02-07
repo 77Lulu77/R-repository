@@ -1,2 +1,2 @@
-# R-repository
+# datasciencecoursera
 Learning for R.
